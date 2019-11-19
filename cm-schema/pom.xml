@@ -94,7 +94,7 @@
     <repository>
       <id>cloudera-external</id>
       <name>Cloudera External Repo</name>
-      <url>https://repository.cloudera.com/artifactory/ext-release-local/</url>
+      <url>http://repository.cloudera.com/artifactory/ext-release-local/</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
